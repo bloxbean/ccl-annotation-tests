@@ -135,7 +135,6 @@ hs_err_pid*
 build/
 
 ### Maven ###
-.mvn
 target/
 
 # Ignore Gradle GUI config
